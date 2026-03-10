@@ -1,0 +1,13 @@
+{
+  "name": "jbrjake",
+  "owner": { "name": "Jon Rubin", "email": "jb.rubin@gmail.com" },
+  "plugins": [
+    {
+      "name": "giles",
+      "source": {
+        "source": "github",
+        "repo": "jbrjake/giles"
+      }
+    }
+  ]
+}
