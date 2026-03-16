@@ -8,6 +8,13 @@
         "source": "github",
         "repo": "jbrjake/giles"
       }
+    },
+    {
+      "name": "janna",
+      "source": {
+        "source": "github",
+        "repo": "jbrjake/janna"
+      }
     }
   ]
 }
