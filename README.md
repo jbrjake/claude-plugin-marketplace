@@ -18,7 +18,7 @@ They're all characters. They have deep backstories — not flavor text, but deta
 
 ## The lineup
 
-### Janna — the product mind
+### [Janna](https://github.com/jbrjake/janna) — the product mind
 
 You give her a half-formed idea. She gives you back PRDs, user personas, simulated focus groups where participants disagree with each other, a dev team profile, a pitch deck, user stories, and an agile backlog. She starts every project with a tarot reading for lateral thinking. (Real randomization. It's a forcing function, not mysticism, but she wouldn't put it that way.)
 
@@ -31,7 +31,7 @@ Her defaults lean toward self-service, product-led growth, and API-first archite
 
 ---
 
-### Giles — the scrum master
+### [Giles](https://github.com/jbrjake/giles) — the scrum master
 
 He runs your sprints on actual GitHub infrastructure. Issues, PRs, labels, milestones, code reviews — all real, all on your repo.
 
@@ -47,7 +47,7 @@ He runs your sprints on actual GitHub infrastructure. Issues, PRs, labels, miles
 
 ---
 
-### Snyder — hard mode
+### [Snyder](https://github.com/jbrjake/snyder) — hard mode
 
 This is the warnings-as-errors plugin.
 
@@ -68,7 +68,7 @@ Also activates when you say "harden this project" or "run on hard mode." Seven h
 
 ---
 
-### Holtz — the auditor
+### [Holtz](https://github.com/jbrjake/holtz) — the auditor
 
 You point him at a codebase. He runs seven phases: recon, doc-to-implementation audit, test quality audit, adversarial code review, TDD fix loop, pattern analysis, and convergence. Every finding gets severity, evidence, acceptance criteria, and a command to validate the fix. Every fix starts with a failing test.
 
@@ -82,7 +82,7 @@ When two or more bugs share a root cause, he searches for the rest of the family
 
 ---
 
-### Sineya — the meta-plugin
+### [Sineya](https://github.com/jbrjake/sineya) — the meta-plugin
 
 She doesn't write your code. She makes the other plugins' instructions actually stick.
 
