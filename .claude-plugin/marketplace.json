@@ -3,13 +3,6 @@
   "owner": { "name": "Jon Rubin", "email": "jb.rubin@gmail.com" },
   "plugins": [
     {
-      "name": "giles",
-      "source": {
-        "source": "github",
-        "repo": "jbrjake/giles"
-      }
-    },
-    {
       "name": "janna",
       "source": {
         "source": "github",
@@ -17,10 +10,31 @@
       }
     },
     {
+      "name": "giles",
+      "source": {
+        "source": "github",
+        "repo": "jbrjake/giles"
+      }
+    },
+    {
       "name": "snyder",
       "source": {
         "source": "github",
         "repo": "jbrjake/snyder"
+      }
+    },
+    {
+      "name": "holtz",
+      "source": {
+        "source": "github",
+        "repo": "jbrjake/holtz"
+      }
+    },
+    {
+      "name": "sineya",
+      "source": {
+        "source": "github",
+        "repo": "jbrjake/sineya"
       }
     }
   ]
