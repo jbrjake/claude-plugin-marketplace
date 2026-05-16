@@ -36,6 +36,13 @@
         "source": "github",
         "repo": "jbrjake/sineya"
       }
+    },
+    {
+      "name": "wyndam",
+      "source": {
+        "source": "github",
+        "repo": "jbrjake/wyndam"
+      }
     }
   ]
 }
